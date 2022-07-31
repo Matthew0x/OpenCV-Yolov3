@@ -3,7 +3,7 @@
 ## OpenCV-Yolov3
 
 ### I will likely introduce some changes later. It's a pretty cool project to have fun with. I might want to add some kind of python prerequisites file, then try modifying the drawing algorithm.
-## It's nothing really fancy (although, it's pretty cool) and currently more of an implementation of an article/guide I managed to stumble upon.
+### It's nothing really fancy (although, it's pretty cool) and currently more of an implementation of an article/guide I managed to stumble upon.
 
 <I might want to implement something similar in my other projects>
 
@@ -11,7 +11,7 @@
 - Nandini Bansal's medium [story](https://towardsdatascience.com/object-detection-using-yolov3-and-opencv-19ee0792a420) with [GitHub Project](https://github.com/nandinib1999/object-detection-yolo-opencv)
 - My own modifications
 
-# Changelog TO-DO/IN-PROGRESS
+## Changelog TO-DO/IN-PROGRESS
 
 - configuration parameters on top of the file (IN-PROGRESS)
 - configuration of the backend's target (CPU, GPU) (Done, not tested)
